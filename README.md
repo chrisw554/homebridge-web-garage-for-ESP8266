@@ -5,7 +5,7 @@ If you're looking for something which doesn't rely on homebridge then I recommen
 
 You'll need an ESP8266 board such as D1 Mini, a Relay or Relay Shield and two contact/magnetic reed sensors/switches. You'll need to work out how to mount your reed switches (one for open, one for closed) and how to trigger your garage door opener with the relay.
 
-Update your wifi details, PIN numbers and Homebridge URL, Upload the code and you're good to go.
+Update your wifi details, GPIO PIN numbers and Homebridge URL, Upload the code and you're good to go.
 
 Make a note of the IP printed to serial monitor on booting to input when adding the garage door opener to Homebridge.
 
